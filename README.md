@@ -10,7 +10,7 @@ learn how to walk, we must first learn how to crawl.
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] User can add a habit.
 - [x] User can customize habit title.
