@@ -30,10 +30,10 @@ To Be Completed
 - [ ] User Profile
 
 
-#Current Bugs
+##Current Bugs
 - First habit appears on as the last habit when scrolling.
 
-#Development Language
+##Development Language
 Swift
 
 ## Video Walkthrough
@@ -42,7 +42,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/2gz3BC9vaQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-#Credits 
+##Credits 
 Artwork such as application icon, launch screen logo and streak creations credits to Katherine Ho. LifeUp has been permitted to use such designs.
 
 
