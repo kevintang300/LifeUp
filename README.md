@@ -23,13 +23,6 @@ The following functionality is completed:
 - [x] Number matches streak design color.
 
 
-To Be Completed
-
-- [ ] Habit Deletion
-- [ ] Reset Streak
-- [ ] User Profile
-
-
 ## Current Bugs
 - First habit appears on as the last habit when scrolling.
 
